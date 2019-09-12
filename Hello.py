@@ -1,2 +1,3 @@
 print('OH hello there')
-input();
+a=input()
+print(a,'you were supposed to bring balance to the Force')
